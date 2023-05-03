@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cloudencryptionstora-staging-100758-authRole",
+      "UnauthRoleArn": "arn:aws:iam::015287826479:role/amplify-cloudencryptionstora-staging-100758-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::015287826479:role/amplify-cloudencryptionstora-staging-100758-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-cloudencryptionstora-staging-100758-deployment",
+      "UnauthRoleName": "amplify-cloudencryptionstora-staging-100758-unauthRole",
+      "StackName": "amplify-cloudencryptionstora-staging-100758",
+      "StackId": "arn:aws:cloudformation:us-east-2:015287826479:stack/amplify-cloudencryptionstora-staging-100758/e38303f0-e287-11ed-898b-0ac507680199",
+      "AmplifyAppId": "d2wy8l1uo69rqd"
+    }
+  }
+}
